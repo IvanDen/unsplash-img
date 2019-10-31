@@ -1,0 +1,3 @@
+.appWrap {display: flex; flex-direction: column; align-items: center; width: 100%; min-width: 1000px; margin: 0 auto;}
+.imagesContainer {width: 100%;}
+.imgItem {width: 80%;}
