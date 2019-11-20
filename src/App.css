@@ -1,3 +1,5 @@
 img {vertical-align: middle; border-style: none;}
+a {text-decoration: none; color: #000000; transition: .3s all;}
+a:hover {opacity: 0.7;}
 button {cursor: pointer; padding: 5px; background: #000508; color: #ffffff; border-radius: 10px; transition: .3s all; box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.8);}
 button:hover {opacity: 0.7; box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.8);}
